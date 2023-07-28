@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.ul-decoration{
+    text-decoration: none
+}
+
+.vertical-tabs-container {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .tab-header-list {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  
+  

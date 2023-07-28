@@ -1,0 +1,26 @@
+export const LargeCardss=[
+    {
+        id:"1",
+        src1:"https://images.pexels.com/photos/296084/pexels-photo-296084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        src2:"https://images.pexels.com/photos/296084/pexels-photo-296084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        src3:"https://images.pexels.com/photos/2748445/pexels-photo-2748445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    },
+    {
+        id:"1",
+        src1:"https://images.pexels.com/photos/296084/pexels-photo-296084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        src2:"https://images.pexels.com/photos/296084/pexels-photo-296084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        src3:"https://images.pexels.com/photos/2748445/pexels-photo-2748445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    },
+    {
+        id:"1",
+        src1:"https://images.pexels.com/photos/296084/pexels-photo-296084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        src2:"https://images.pexels.com/photos/296084/pexels-photo-296084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        src3:"https://images.pexels.com/photos/2748445/pexels-photo-2748445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    },
+    {
+        id:"1",
+        src1:"https://images.pexels.com/photos/296084/pexels-photo-296084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        src2:"https://images.pexels.com/photos/296084/pexels-photo-296084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        src3:"https://images.pexels.com/photos/2748445/pexels-photo-2748445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    },
+]
